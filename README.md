@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 About me ◽️ 👨🏻‍💻 Front-End Engineer (9+ years) ◽️ 🎬 React.js Instructor on Udemy ◽️ 🎯 Mentor for Developers
 
 My courses
@@ -63,6 +64,9 @@ The page will reload when you make changes.
 =======
 # Chatbot-React
 This is a fully functional AI-powered chatbot built with React. It integrates with AI models like OpenAI, Google Gemini, and DeepSeek to simulate human-like conversations.
+=======
+# React-Chat-Bot-https://reactchatbottt.netlify.app/
+>>>>>>> aebeb328d6fa603939e0c5aa02fc4bece55ad348
 # 🤖 React AI Chatbot
 
 A smart AI-powered chatbot built with React that supports multiple AI providers like OpenAI, Google Gemini, and DeepSeek. Users can chat in real-time with AI models in a clean, interactive interface.
@@ -82,14 +86,23 @@ A smart AI-powered chatbot built with React that supports multiple AI providers 
 - **Frontend**: React, Vite, CSS Modules
 - **AI APIs**: OpenAI, Google Generative AI, DeepSeek AI
 - **Tooling**: Git, GitHub
+<<<<<<< HEAD
 
 ---
 npm install
 .env =>VITE_OPEN_AI_API_KEY=your_openai_key
+=======
+- npm install
+.env-VITE_OPEN_AI_API_KEY=your_openai_key
+>>>>>>> aebeb328d6fa603939e0c5aa02fc4bece55ad348
 VITE_GOGGLE_AI_API_KEY=your_google_gemini_key
 VITE_DEEPSEEK_AI_API_KEY=your_deepseek_key
 npm run dev      # Run development server
 npm run build    # Build for production
 npm run preview  # Preview production build
 
+<<<<<<< HEAD
 >>>>>>> 2988464f393464ad70d4c228e501671bd7bafe1a
+=======
+
+>>>>>>> aebeb328d6fa603939e0c5aa02fc4bece55ad348
