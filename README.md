@@ -1,4 +1,5 @@
-# React-Chat-Bot-https://reactchatbottt.netlify.app/
+# React-Chat-Bot-
+https://reactchatbottt.netlify.app/
 
 # 🤖 React AI Chatbot
 
@@ -19,16 +20,13 @@ A smart AI-powered chatbot built with React that supports multiple AI providers 
 - **Frontend**: React, Vite, CSS Modules
 - **AI APIs**: OpenAI, Google Generative AI, DeepSeek AI
 - **Tooling**: Git, GitHub
-<<<<<<< HEAD
-
----
-npm install
-.env =>VITE_OPEN_AI_API_KEY=your_openai_key
-=======
 - npm install
+- 
 .env-VITE_OPEN_AI_API_KEY=your_openai_key
 VITE_GOGGLE_AI_API_KEY=your_google_gemini_key
 VITE_DEEPSEEK_AI_API_KEY=your_deepseek_key
+
+
 npm run dev      # Run development server
 npm run build    # Build for production
 npm run preview  # Preview production build
